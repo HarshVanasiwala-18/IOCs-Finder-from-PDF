@@ -1,5 +1,5 @@
-pip install regex
-pip install pdfminer
-pip install pdfminer.six
-pip install nltk
-pip install re
+regex
+pdfminer
+pdfminer.six
+nltk
+re
